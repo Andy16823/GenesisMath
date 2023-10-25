@@ -1,0 +1,6 @@
+C:\Users\andy1\source\repos\GenesisMath\GenesisMath\bin\x64\Debug\GenesisMath.dll
+C:\Users\andy1\source\repos\GenesisMath\GenesisMath\bin\x64\Debug\GenesisMath.pdb
+C:\Users\andy1\source\repos\GenesisMath\GenesisMath\obj\x64\Debug\GenesisMath.csproj.AssemblyReference.cache
+C:\Users\andy1\source\repos\GenesisMath\GenesisMath\obj\x64\Debug\GenesisMath.csproj.CoreCompileInputs.cache
+C:\Users\andy1\source\repos\GenesisMath\GenesisMath\obj\x64\Debug\GenesisMath.dll
+C:\Users\andy1\source\repos\GenesisMath\GenesisMath\obj\x64\Debug\GenesisMath.pdb
